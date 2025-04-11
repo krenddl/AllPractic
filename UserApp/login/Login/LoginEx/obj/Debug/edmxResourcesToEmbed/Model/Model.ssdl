@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище LoginModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Table_1">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="RoleID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Table_4">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Role" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Table_1_Table_41">
+    <End Role="Table_4" Type="Self.Table_4" Multiplicity="1" />
+    <End Role="Table_1" Type="Self.Table_1" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Table_4">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Table_1">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище LoginModelContainer">
+    <EntitySet Name="Table_1" EntityType="Self.Table_1" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Table_4" EntityType="Self.Table_4" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Table_1_Table_41" Association="Self.FK_Table_1_Table_41">
+      <End Role="Table_4" EntitySet="Table_4" />
+      <End Role="Table_1" EntitySet="Table_1" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

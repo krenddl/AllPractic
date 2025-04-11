@@ -1,0 +1,7 @@
+C:\Users\wfgab\source\repos\Приложения\login\methods\methods\bin\Debug\methods.exe.config
+C:\Users\wfgab\source\repos\Приложения\login\methods\methods\bin\Debug\methods.exe
+C:\Users\wfgab\source\repos\Приложения\login\methods\methods\bin\Debug\methods.pdb
+C:\Users\wfgab\source\repos\Приложения\login\methods\methods\obj\Debug\methods.csproj.AssemblyReference.cache
+C:\Users\wfgab\source\repos\Приложения\login\methods\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+C:\Users\wfgab\source\repos\Приложения\login\methods\methods\obj\Debug\methods.exe
+C:\Users\wfgab\source\repos\Приложения\login\methods\methods\obj\Debug\methods.pdb

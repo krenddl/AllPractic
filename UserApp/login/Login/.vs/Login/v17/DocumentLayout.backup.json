@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|c:\\users\\wfgab\\source\\repos\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\login\\loginex\\views\\datapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|solutionrelative:loginex\\views\\datapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\loginex\\views\\datapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|solutionrelative:loginex\\views\\datapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\loginex\\views\\user.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|solutionrelative:loginex\\views\\user.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\loginex\\views\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|solutionrelative:loginex\\views\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\loginex\\model\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|solutionrelative:loginex\\model\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\loginex\\model\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|solutionrelative:loginex\\model\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\loginex\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|solutionrelative:loginex\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\loginex\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|solutionrelative:loginex\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\loginex\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|solutionrelative:loginex\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\loginex\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|solutionrelative:loginex\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\loginex\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|solutionrelative:loginex\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\loginex\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AC6AB652-186F-4DA8-B695-E040C588E705}|LoginEx\\LoginEx.csproj|solutionrelative:loginex\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppData.cs",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\Model\\AppData.cs",
+              "RelativeDocumentMoniker": "LoginEx\\Model\\AppData.cs",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\Model\\AppData.cs",
+              "RelativeToolTip": "LoginEx\\Model\\AppData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:19:21.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\Model\\Model.edmx",
+              "RelativeDocumentMoniker": "LoginEx\\Model\\Model.edmx",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\Model\\Model.edmx [Diagram1]",
+              "RelativeToolTip": "LoginEx\\Model\\Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-01T18:18:14.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\packages.config",
+              "RelativeDocumentMoniker": "LoginEx\\packages.config",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\packages.config",
+              "RelativeToolTip": "LoginEx\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-01T17:50:57.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\Views\\DataPage.xaml.cs",
+              "RelativeDocumentMoniker": "LoginEx\\Views\\DataPage.xaml.cs",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\Views\\DataPage.xaml.cs",
+              "RelativeToolTip": "LoginEx\\Views\\DataPage.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:45:48.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataPage.xaml",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\Views\\DataPage.xaml",
+              "RelativeDocumentMoniker": "LoginEx\\Views\\DataPage.xaml",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\Views\\DataPage.xaml",
+              "RelativeToolTip": "LoginEx\\Views\\DataPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T17:39:29.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\Views\\User.xaml.cs",
+              "RelativeDocumentMoniker": "LoginEx\\Views\\User.xaml.cs",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\Views\\User.xaml.cs",
+              "RelativeToolTip": "LoginEx\\Views\\User.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAvwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:25:35.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LoginEx\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\App.xaml.cs",
+              "RelativeToolTip": "LoginEx\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:13:48.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.xaml",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\Views\\User.xaml",
+              "RelativeDocumentMoniker": "LoginEx\\Views\\User.xaml",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\Views\\User.xaml",
+              "RelativeToolTip": "LoginEx\\Views\\User.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T17:13:35.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\App.config",
+              "RelativeDocumentMoniker": "LoginEx\\App.config",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\App.config",
+              "RelativeToolTip": "LoginEx\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-29T16:32:50.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\App.xaml",
+              "RelativeDocumentMoniker": "LoginEx\\App.xaml",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\App.xaml",
+              "RelativeToolTip": "LoginEx\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T16:32:46.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LoginEx\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\MainWindow.xaml",
+              "RelativeToolTip": "LoginEx\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T16:32:20.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LoginEx\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wfgab\\source\\repos\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\login\\Login\\LoginEx\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LoginEx\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:32:17.604Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
