@@ -1,0 +1,69 @@
+﻿<Page
+    x:Class="Budilnik.Views.BudilnikPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Budilnik.Views"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="BudilnikPage"
+    d:DesignHeight="450"
+    d:DesignWidth="800"
+    mc:Ignorable="d">
+
+    <Grid Margin="20">
+
+        <Viewbox Margin="10">
+            <Border
+                Width="70"
+                Height="70"
+                Margin="100,0,0,0"
+                HorizontalAlignment="Left"
+                Background="#1e5945"
+                CornerRadius="10">
+                <StackPanel>
+                    <Image
+                        Width="25"
+                        Height="25"
+                        Margin="0,5,0,0"
+                        VerticalAlignment="Top"
+                        Source="/Image/free-icon-timer-142641.png" />
+                   
+                        <Button
+                        Margin="0 10 0 0"
+Style="{StaticResource FancyRoundButtonStyle}"
+Content="Таймер"
+x:Name="TimerBtn"
+Click="TimerBtn_Click"/>
+
+                </StackPanel>
+            </Border>
+        </Viewbox>
+        <Viewbox Margin="10">
+            <Border
+                Width="70"
+                Height="70"
+                Margin="0,0,100,0"
+                HorizontalAlignment="Right"
+                Background="#1e5945"
+                CornerRadius="10">
+                <StackPanel>
+                    <Image
+                        Width="25"
+                        Height="25"
+                        Margin="0,5,0,0"
+                        VerticalAlignment="Top"
+                        Source="/Image/free-icon-alarm-clock-2364945.png" />
+                    <Button
+                        Margin="0 10 0 0"
+Style="{StaticResource FancyRoundButtonStyle}"
+Content="Будильник"
+x:Name="BudilnikBtn"
+Click="Budilnik_Click"/>
+
+                </StackPanel>
+
+            </Border>
+
+        </Viewbox>
+    </Grid>
+</Page>

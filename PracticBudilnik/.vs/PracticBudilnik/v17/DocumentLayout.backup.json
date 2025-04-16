@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|c:\\users\\web2\\source\\repos\\practicbudilnik\\budilnik\\views\\buduilpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|solutionrelative:budilnik\\views\\buduilpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|c:\\users\\web2\\source\\repos\\practicbudilnik\\budilnik\\views\\buduilpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|solutionrelative:budilnik\\views\\buduilpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|c:\\users\\web2\\source\\repos\\practicbudilnik\\budilnik\\views\\budilnikpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|solutionrelative:budilnik\\views\\budilnikpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|c:\\users\\web2\\source\\repos\\practicbudilnik\\budilnik\\views\\budilnikpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|solutionrelative:budilnik\\views\\budilnikpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|c:\\users\\web2\\source\\repos\\practicbudilnik\\budilnik\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|solutionrelative:budilnik\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\web2\\AppData\\Local\\Temp\\.vsdbgsrc\\92a55ada2dd14c597d671f498d0088eed7bd36127645c3f93e1b173c5e115e9c\\Storyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|c:\\users\\web2\\source\\repos\\practicbudilnik\\budilnik\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|solutionrelative:budilnik\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|c:\\users\\web2\\source\\repos\\practicbudilnik\\budilnik\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|solutionrelative:budilnik\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|c:\\users\\web2\\source\\repos\\practicbudilnik\\budilnik\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|solutionrelative:budilnik\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|c:\\users\\web2\\source\\repos\\practicbudilnik\\budilnik\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|solutionrelative:budilnik\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Budilnik||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|c:\\users\\web2\\source\\repos\\practicbudilnik\\budilnik\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|solutionrelative:budilnik\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7B6C51-E0B0-4439-8E8D-1D5B3A4E88C9}|Budilnik\\Budilnik.csproj|c:\\users\\web2\\source\\repos\\practicbudilnik\\budilnik\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Storyboard.cs",
+              "DocumentMoniker": "C:\\Users\\web2\\AppData\\Local\\Temp\\.vsdbgsrc\\92a55ada2dd14c597d671f498d0088eed7bd36127645c3f93e1b173c5e115e9c\\Storyboard.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\92a55ada2dd14c597d671f498d0088eed7bd36127645c3f93e1b173c5e115e9c\\Storyboard.cs",
+              "ToolTip": "C:\\Users\\web2\\AppData\\Local\\Temp\\.vsdbgsrc\\92a55ada2dd14c597d671f498d0088eed7bd36127645c3f93e1b173c5e115e9c\\Storyboard.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\92a55ada2dd14c597d671f498d0088eed7bd36127645c3f93e1b173c5e115e9c\\Storyboard.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAGECAAAAAAAAAAAwwGkCAAAFAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:38:16.146Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\App.config",
+              "RelativeDocumentMoniker": "Budilnik\\App.config",
+              "ToolTip": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\App.config",
+              "RelativeToolTip": "Budilnik\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-15T09:35:24.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Budilnik\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Budilnik\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:35:19.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Budilnik",
+              "DocumentMoniker": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\Budilnik.csproj",
+              "RelativeDocumentMoniker": "Budilnik\\Budilnik.csproj",
+              "ToolTip": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\Budilnik.csproj",
+              "RelativeToolTip": "Budilnik\\Budilnik.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-15T09:35:18.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuduilPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\Views\\BuduilPage.xaml.cs",
+              "RelativeDocumentMoniker": "Budilnik\\Views\\BuduilPage.xaml.cs",
+              "ToolTip": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\Views\\BuduilPage.xaml.cs",
+              "RelativeToolTip": "Budilnik\\Views\\BuduilPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:34:32.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuduilPage.xaml",
+              "DocumentMoniker": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\Views\\BuduilPage.xaml",
+              "RelativeDocumentMoniker": "Budilnik\\Views\\BuduilPage.xaml",
+              "ToolTip": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\Views\\BuduilPage.xaml",
+              "RelativeToolTip": "Budilnik\\Views\\BuduilPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T09:16:18.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Views\\BudilnikPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\Views\\BudilnikPage.xaml.cs",
+              "RelativeDocumentMoniker": "Budilnik\\Views\\BudilnikPage.xaml.cs",
+              "ToolTip": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\Views\\BudilnikPage.xaml.cs",
+              "RelativeToolTip": "Budilnik\\Views\\BudilnikPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:15:21.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Budilnik\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\App.xaml.cs",
+              "RelativeToolTip": "Budilnik\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:09:41.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\App.xaml",
+              "RelativeDocumentMoniker": "Budilnik\\App.xaml",
+              "ToolTip": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\App.xaml",
+              "RelativeToolTip": "Budilnik\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T09:09:37.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BudilnikPage.xaml",
+              "DocumentMoniker": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\Views\\BudilnikPage.xaml",
+              "RelativeDocumentMoniker": "Budilnik\\Views\\BudilnikPage.xaml",
+              "ToolTip": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\Views\\BudilnikPage.xaml",
+              "RelativeToolTip": "Budilnik\\Views\\BudilnikPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T09:09:33.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Budilnik\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\MainWindow.xaml",
+              "RelativeToolTip": "Budilnik\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T09:07:22.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Budilnik\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\web2\\source\\repos\\PracticBudilnik\\Budilnik\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Budilnik\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:07:21.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
