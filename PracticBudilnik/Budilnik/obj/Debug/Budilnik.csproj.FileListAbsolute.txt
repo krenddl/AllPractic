@@ -18,3 +18,25 @@ C:\Users\web2\source\repos\PracticBudilnik\Budilnik\obj\Debug\Budilnik.pdb
 C:\Users\web2\source\repos\PracticBudilnik\Budilnik\obj\Debug\Views\BuduilPage.g.cs
 C:\Users\web2\source\repos\PracticBudilnik\Budilnik\obj\Debug\Views\BuduilPage.baml
 C:\Users\web2\source\repos\PracticBudilnik\Budilnik\obj\Debug\App.baml
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\bin\Debug\Budilnik.exe.config
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\bin\Debug\Budilnik.exe
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\bin\Debug\Budilnik.pdb
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\Budilnik.csproj.AssemblyReference.cache
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\MainWindow.g.cs
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\Views\BudilnikPage.g.cs
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\Views\BuduilPage.g.cs
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\App.g.cs
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\Budilnik_MarkupCompile.cache
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\Budilnik_MarkupCompile.lref
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\App.baml
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\MainWindow.baml
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\Views\BudilnikPage.baml
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\Views\BuduilPage.baml
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\Budilnik.g.resources
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\Budilnik.Properties.Resources.resources
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\Budilnik.csproj.GenerateResource.cache
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\Budilnik.csproj.CoreCompileInputs.cache
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\Budilnik.exe
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\Budilnik.pdb
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\Views\TimerPage.g.cs
+C:\Users\web2\Desktop\Новая папка\AllPractic\PracticBudilnik\Budilnik\obj\Debug\Views\TimerPage.baml

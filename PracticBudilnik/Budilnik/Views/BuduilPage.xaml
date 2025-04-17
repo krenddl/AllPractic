@@ -9,42 +9,56 @@
       Title="BuduilPage">
 
     <Grid>
-        <Border HorizontalAlignment="Center"
-                VerticalAlignment="Center"
-                Height="150"
-                Width="300"
-                BorderBrush="Green"
-                BorderThickness="2">
-            <StackPanel>
-                <DatePicker HorizontalAlignment="Center"
-                            VerticalAlignment="Top"
-                            Margin="0 20 0 0"></DatePicker>
-                <StackPanel HorizontalAlignment="Center"
-                            VerticalAlignment="Top"
-                            Orientation="Horizontal"
-                            Margin="10">
-                    <Label FontFamily="pack//application:,,,/Fonts/Montserrat-SemiBold">Время</Label>
-                    <ComboBox x:Name="HoursCb"></ComboBox>
-                    <Label>:</Label>
-                    <ComboBox x:Name="MinutesCb"></ComboBox>
+        <Viewbox>
+            <Border HorizontalAlignment="Center"
+        VerticalAlignment="Center"
+        Height="250"
+        Width="400"
+        BorderThickness="2">
+                <StackPanel>
+                    
+                    <DatePicker HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Margin="0 20 0 0"
+                    x:Name="DPBudil"></DatePicker>
+                    <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Orientation="Horizontal"
+                    Margin="10">
+                        <Label FontFamily="pack//application:,,,/Fonts/Montserrat-SemiBold">Время</Label>
+                        <ComboBox x:Name="HoursCb"></ComboBox>
+                        <Label>:</Label>
+                        <ComboBox x:Name="MinutesCb"></ComboBox>
+                    </StackPanel>
+                    <TextBlock x:Name="TBBudil"
+                   HorizontalAlignment="Center"
+                   ></TextBlock>
+                    <TextBlock
+            x:Name="TBBudilOtchet"
+            HorizontalAlignment="Center">
+
+                    </TextBlock>
+                    <Button 
+                x:Name="SaveBtn"
+                Click="SaveBtn_Click"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Width="100"
+                Height="50"
+                Margin="10"
+                Background="Transparent"
+                BorderBrush="Transparent"
+                FontFamily="Algerian"
+                FontWeight="Bold"
+                FontSize="17"
+                Foreground="DarkSeaGreen">Сохранить</Button>
+                    <Button Style="{StaticResource FancyRoundButtonStyle}"
+                            x:Name="BtnBack"
+                            Click="BtnBack_Click">Назад</Button>
                 </StackPanel>
-                <TextBlock x:Name="TBBudil"
-                           ></TextBlock>
-                <Button 
-                        x:Name="SaveBtn"
-                        Click="SaveBtn_Click"
-                        HorizontalAlignment="Center"
-                        VerticalAlignment="Top"
-                        Width="100"
-                        Height="50"
-                        Margin="10"
-                        Background="Transparent"
-                        BorderBrush="Transparent"
-                        FontFamily="Algerian"
-                        FontWeight="Bold"
-                        FontSize="17"
-                        Foreground="DarkSeaGreen">Сохранить</Button>
-            </StackPanel>
-        </Border>
+            </Border>
+            
+        </Viewbox>
+        
     </Grid>
 </Page>

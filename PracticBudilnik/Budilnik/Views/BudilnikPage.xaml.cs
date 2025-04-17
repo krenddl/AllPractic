@@ -32,7 +32,7 @@ namespace Budilnik.Views
 
         private void TimerBtn_Click(object sender, RoutedEventArgs e)
         {
-
+            NavigationService.Navigate(new TimerPage());
         }
     }
 }
